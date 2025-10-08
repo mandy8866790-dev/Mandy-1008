@@ -41,11 +41,6 @@ export const EXPERIENCE = {
       websiteURL:
         'pages/kivicube/scene?scene-id=22S2SSO26b5PAZnEHgIq4BrPHoOjg927',
     },
-    {
-      url: 'websites-preview/AR card.png',
-      websiteURL:
-        'pages/kivicube/scene?scene-id=22S2SSO26b5PAZnEHgIq4BrPHoOjg927',
-    },
   ],
 };
 

@@ -67,7 +67,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://docs.google.com/document/d/1wKGkXHhd7q5v3AOGPMK6Gtehpp_Tkp90BvUufUqQIRc/edit?usp=sharing',
+              'https://docs.google.com/document/d/1k6ogUOLfoE0quCgNtW233mOWyk8brehM/edit?usp=sharing&ouid=107495351656140896639&rtpof=true&sd=true',
           },
         ],
       },
@@ -78,7 +78,6 @@ const configs = {
       rotation: [Math.PI / 2, 0, 0],
       position: [0, -PAGE_DEPH_MARGIN, 0],
       title: 'Personal Projects',
-      footer: '(And also this web-app)',
       imageList: {
         rows: 2,
         separation: 2.5,
