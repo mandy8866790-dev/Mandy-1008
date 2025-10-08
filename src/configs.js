@@ -7,8 +7,8 @@ import {
 } from './constants/pageData';
 
 const configs = {
-  title: 'Mandy 3D',
-  subTitle: 'Dev portfolio.',
+  title: 'Mandy Studio',
+  subTitle: 'Art & Technology',
   stars: {
     maxSize: 20,
     emissionIntencity: 40,
@@ -16,7 +16,7 @@ const configs = {
     // url: 'icons/three-js-logo.png',
     dencity: 900,
   },
-  navTitle: 'Tomas Gonzalez portfolio.',
+  navTitle: 'Mandy Gonzalez portfolio.',
   relevantStops: STOPS,
   pages: [
     {
@@ -131,6 +131,7 @@ const configs = {
           {
             url: 'icons/twitter.png',
             websiteURL: 'https://twitter.com/kiter_js',
+
           },
           {
             url: 'icons/linkedin.png',
