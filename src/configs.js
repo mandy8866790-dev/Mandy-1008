@@ -7,7 +7,7 @@ import {
 } from './constants/pageData';
 
 const configs = {
-  title: 'Tomas Gonzalez',
+  title: 'Mandy 3D',
   subTitle: 'Dev portfolio.',
   stars: {
     maxSize: 20,
@@ -26,11 +26,11 @@ const configs = {
       displayAt: displayAt('About'),
       title: 'Who Am I?',
       infos: [
-        "* I'm a maker, a curious thinker who enjoys learning and comprehending how things function.",
-        '* My journey as a software developer started when I was a just a kid trying to figure out how video games where made.',
-        '* I started my career as a front-end developer around 6 years ago in 2017, and since then I have helped many startup companies and non-profit organizations to develop quality products.',
-        '* I have a wide range of skills, of which I can say that I’ve mastered many.',
-      ],
+        "* My name is Mandy. I’m a student majoring in Art and Technology, passionate about photography, film, and music.",
+        "* I’m happy to have you visit my webpage, but it’s clear that this isn’t just my effort alone.",
+        "* I love traveling, making new friends, and remembering lots of funny jokes. Sometimes I can be a bit nonsensical — maybe you’ll see my abstract side later on.",
+        "* I just hope you can get to know me a little better.",
+      ], 
     },
     {
       scale: 15,
