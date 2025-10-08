@@ -129,22 +129,21 @@ const configs = {
         scale: 0.3,
         items: [
           {
-            url: 'icons/twitter.png',
-            websiteURL: 'https://twitter.com/kiter_js',
-
+            url: 'icons/BliBli.PNG',
+            websiteURL: 'https://space.bilibili.com/1322978371?spm_id_from=333.1007.0.0',
           },
           {
-            url: 'icons/linkedin.png',
+            url: 'icons/Tiktalk.PNG',
             websiteURL:
-              'https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/',
+              'https://www.douyin.com/?recommend=1',
           },
           {
-            url: 'icons/github.png',
-            websiteURL: 'https://github.com/TomasGonzalez',
+            url: 'icons/Redbook.PNG',
+            websiteURL: 'https://www.xiaohongshu.com/user/profile/62b916a8000000001b02b74f',
           },
           {
-            url: 'icons/email.png',
-            websiteURL: 'mailto:tomasgp14@gmail.com',
+            url: 'icons/Weibo.PNG',
+            websiteURL: 'https://weibo.com/u/7650497947',
           },
         ],
       },
