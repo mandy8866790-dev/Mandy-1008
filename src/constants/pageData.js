@@ -24,27 +24,27 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'websites-preview/optic-logo.png',
-      websiteURL: 'https://optic.id/',
+      url: 'websites-preview/penhailigen.png',
+      websiteURL: 'https://www.spatial.io/s/Penhaligons-Story-67f69d087096556e2726a2b8?share=8307231098053039486',
     },
     {
-      url: 'websites-preview/good-dollar.jpeg',
-      websiteURL: 'https://www.gooddollar.org/',
+      url: 'websites-preview/hetuxinyu.png',
+      websiteURL: 'https://www.artsteps.com/view/681954ff9ce8ad25f31c1bae',
     },
     {
-      url: 'websites-preview/cs2.png',
+      url: 'websites-preview/walking English class.PNG',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/cs.html', //optional open url in new tab
+        'https://weibo.com/1960086960/Op0rI4iFY', //optional open url in new tab
     },
     {
-      url: 'websites-preview/knack-page.png',
+      url: 'websites-preview/AR card.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/knack.html',
+        'pages/kivicube/scene?scene-id=22S2SSO26b5PAZnEHgIq4BrPHoOjg927',
     },
     {
-      url: 'websites-preview/magic.png',
+      url: 'websites-preview/AR card.png',
       websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/magic-app.html',
+        'pages/kivicube/scene?scene-id=22S2SSO26b5PAZnEHgIq4BrPHoOjg927',
     },
   ],
 };
