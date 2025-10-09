@@ -73,46 +73,38 @@ const configs = {
       },
     },
     {
-      scale: 15,
-      displayAt: displayAt('Personal Projects'),
+      scale: 15, // 页面整体缩小，让相机靠近显示
+      displayAt: displayAt('Movie'),
       rotation: [Math.PI / 2, 0, 0],
-      position: [0, -PAGE_DEPH_MARGIN, 0],
-      title: 'Personal Projects',
+      position: [0, -PAGE_DEPH_MARGIN*1, 0], // 上移一点，避免太远
       imageList: {
-        rows: 2,
-        separation: 2.5,
-        leftPadding: -0.4,
-        topPadding: 0.2,
-        scale: 0.3,
+        rows: 1,
+        separation: 0.2,     // 图片间距适中
+        leftPadding: -8,
+        topPadding: 0.3,
+        scale: 3,          // 图片本身放大约3倍
         items: [
           {
-            url: 'websites-preview/nft-place-logo.png',
-            websiteURL: 'https://nft-place.xyz/',
+            url: 'websites-preview/Walking English Class - 1-哔哩哔哩.jpg',
+            websiteURL: 'https://b23.tv/jIUL7eZ',
           },
           {
-            url: 'websites-preview/snow-hero.png',
-            websiteURL: 'https://powtom48.itch.io/snow-the-hero',
+            url: 'websites-preview/Walking English Class - 2-哔哩哔哩.jpg',
+            websiteURL: 'https://b23.tv/atda4G5',
           },
           {
-            url: 'websites-preview/minecraft-in-js.png',
-            websiteURL:
-              'https://www.youtube.com/watch?v=yOUQquusyiY&t=123s&ab_channel=tomugon',
+            url: 'websites-preview/Walking English Class - 3-哔哩哔哩.jpg',
+            websiteURL: 'https://b23.tv/c5HPLv2',
           },
           {
-            url: 'websites-preview/fish-chopter.png',
-            websiteURL: 'https://powtom48.itch.io/fishcopter',
-          },
-          {
-            url: 'websites-preview/odd-clowns.png',
-            websiteURL: 'https://oddclowns.com/',
-          },
-          {
-            url: 'websites-preview/island-ai.png',
-            websiteURL: 'https://www.instagram.com/island.ai/',
+            url: 'websites-preview/Walking English Class - 4-哔哩哔哩.jpg',
+            websiteURL: 'https://b23.tv/2lMnGO2',
           },
         ],
       },
-    },
+    }
+    ,
+    
     {
       scale: 15,
       displayAt: displayAt('Get In Touch'),
